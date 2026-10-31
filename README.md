@@ -6,9 +6,7 @@
 
 妙想 MCP 通过标准 MCP 协议连接东方财富数据服务，提供股票、基金、债券、指数板块、宏观产业数据，以及公告、研报和新闻检索能力。本仓库提供能力介绍、使用示例与接入指南。
 
-🌐 [妙想官网](https://ai.eastmoney.com/skills) · 📘 [官方配置文档](https://mxapi.eastmoney.com/mxds/doc/mcp-install.md) · 🧩 [EastmoneySkills 技能库](https://github.com/GraceXiaoo/EastmoneySkills)
-
-📂 [查看仓库内配置文档](./docs/mcp-install.md)（下载自官方地址，2026-10-31；最新内容以在线文档为准）。
+🌐 [妙想官网](https://ai.eastmoney.com/skills) · 📘 [官方配置文档](./docs/mcp-install.md) · 🧩 [EastmoneySkills 技能库](https://github.com/GraceXiaoo/EastmoneySkills)
 
 ## 🚀 一键接入
 
