@@ -8,6 +8,8 @@
 
 🌐 [妙想官网](https://ai.eastmoney.com/skills) · 📘 [官方配置文档](https://mxapi.eastmoney.com/mxds/doc/mcp-install.md) · 🧩 [EastmoneySkills 技能库](https://github.com/GraceXiaoo/EastmoneySkills)
 
+📂 [查看仓库内配置文档](./docs/mcp-install.md)（下载自官方地址，2026-10-31；最新内容以在线文档为准）。
+
 ## 🚀 一键接入
 
 在支持 MCP 和配置操作的 Agent 中发送：
