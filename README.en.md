@@ -6,9 +6,7 @@
 
 Miaoxiang MCP connects agents to Eastmoney data services through the Model Context Protocol. It provides equity, fund, bond, index, macroeconomic, and industry data, together with announcement, research report, and news retrieval. This repository contains capability descriptions, examples, and connection guidance.
 
-🌐 [Official website](https://ai.eastmoney.com/skills) · 📘 [Configuration guide](https://mxapi.eastmoney.com/mxds/doc/mcp-install.md) · 🧩 [EastmoneySkills](https://github.com/GraceXiaoo/EastmoneySkills)
-
-📂 [Read the bundled configuration guide](./docs/mcp-install.md) (downloaded from the official URL on 2026-10-31; consult the online guide for updates).
+🌐 [Official website](https://ai.eastmoney.com/skills) · 📘 [Configuration guide](./docs/mcp-install.md) · 🧩 [EastmoneySkills](https://github.com/GraceXiaoo/EastmoneySkills)
 
 ## 🚀 Connect with your agent
 
