@@ -8,6 +8,8 @@ Miaoxiang MCP connects agents to Eastmoney data services through the Model Conte
 
 🌐 [Official website](https://ai.eastmoney.com/skills) · 📘 [Configuration guide](https://mxapi.eastmoney.com/mxds/doc/mcp-install.md) · 🧩 [EastmoneySkills](https://github.com/GraceXiaoo/EastmoneySkills)
 
+📂 [Read the bundled configuration guide](./docs/mcp-install.md) (downloaded from the official URL on 2026-10-31; consult the online guide for updates).
+
 ## 🚀 Connect with your agent
 
 Send this request to an agent that supports MCP and can configure connections:
