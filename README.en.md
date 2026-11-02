@@ -6,7 +6,7 @@
 
 Miaoxiang MCP connects agents to Eastmoney data services through the Model Context Protocol. It provides equity, fund, bond, index, macroeconomic, and industry data, together with announcement, research report, and news retrieval. This repository contains capability descriptions, examples, and connection guidance.
 
-🌐 [Official website](https://ai.eastmoney.com/skills) · 📘 [Configuration guide](./docs/mcp-install.md) · 🧩 [EastmoneySkills](https://github.com/GraceXiaoo/EastmoneySkills)
+🌐 [Official website](https://ai.eastmoney.com/skills) · 📘 [Configuration guide](./docs/mcp-install.md) · 🧩 [EastmoneySkills](https://github.com/ai-eastmoney/EastmoneySkills)
 
 ## 🚀 Connect with your agent
 
@@ -86,7 +86,7 @@ This list reflects the 11 currently visible Miaoxiang MCP tools. Clients may pre
 
 ## 🧩 Use with Skills
 
-[EastmoneySkills](https://github.com/GraceXiaoo/EastmoneySkills) provides diagnosis, research, and report workflows. Miaoxiang MCP supplies callable data and retrieval tools. Query directly through MCP or connect these tools to a workflow as specified by the selected skill.
+[EastmoneySkills](https://github.com/ai-eastmoney/EastmoneySkills) provides diagnosis, research, and report workflows. Miaoxiang MCP supplies callable data and retrieval tools. Query directly through MCP or connect these tools to a workflow as specified by the selected skill.
 
 Some research skills also require a separate MQL MCP, Choice SDK, or document-generation environment. Configuring `mx-ds-mcp` does not install all skills or configure all research dependencies.
 
@@ -106,7 +106,7 @@ Check the key, data permissions, and request scope. Share client details, tool n
 
 ## 🤝 Feedback
 
-Use [Issues](https://github.com/GraceXiaoo/EastmoneyMCP/issues) for connection documentation issues and feedback. Include the client version, operating system, reproducible request, and redacted errors.
+Use [Issues](https://github.com/ai-eastmoney/EastmoneyMCP/issues) for connection documentation issues and feedback. Include the client version, operating system, reproducible request, and redacted errors.
 
 ## 📄 Rights and usage
 
