@@ -6,7 +6,7 @@
 
 妙想 MCP 通过标准 MCP 协议连接东方财富数据服务，提供股票、基金、债券、指数板块、宏观产业数据，以及公告、研报和新闻检索能力。本仓库提供能力介绍、使用示例与接入指南。
 
-🌐 [妙想官网](https://ai.eastmoney.com/skills) · 📘 [官方配置文档](./docs/mcp-install.md) · 🧩 [EastmoneySkills 技能库](https://github.com/GraceXiaoo/EastmoneySkills)
+🌐 [妙想官网](https://ai.eastmoney.com/skills) · 📘 [官方配置文档](./docs/mcp-install.md) · 🧩 [EastmoneySkills 技能库](https://github.com/ai-eastmoney/EastmoneySkills)
 
 ## 🚀 一键接入
 
@@ -85,7 +85,7 @@ curl -fsSL https://mxapi.eastmoney.com/mxds/doc/mcp-install.md
 
 ## 🧩 与 Skills 配合
 
-[EastmoneySkills](https://github.com/GraceXiaoo/EastmoneySkills) 提供诊断、研究和报告工作流；妙想 MCP 提供可供 Agent 调用的数据与检索工具。可以直接使用 MCP 查询，也可以按所选 Skill 的说明将工具接入研究流程。
+[EastmoneySkills](https://github.com/ai-eastmoney/EastmoneySkills) 提供诊断、研究和报告工作流；妙想 MCP 提供可供 Agent 调用的数据与检索工具。可以直接使用 MCP 查询，也可以按所选 Skill 的说明将工具接入研究流程。
 
 部分研究 Skill 还需要独立的 MQL MCP、Choice SDK 或文档生成环境。配置 `mx-ds-mcp` 不等于已安装所有 Skills 或配置好所有研究依赖。
 
@@ -105,7 +105,7 @@ curl -fsSL https://mxapi.eastmoney.com/mxds/doc/mcp-install.md
 
 ## 🤝 反馈
 
-通过 [Issues](https://github.com/GraceXiaoo/EastmoneyMCP/issues) 提交接入文档问题或使用反馈。请附客户端版本、操作系统、可复现问句及脱敏错误信息。
+通过 [Issues](https://github.com/ai-eastmoney/EastmoneyMCP/issues) 提交接入文档问题或使用反馈。请附客户端版本、操作系统、可复现问句及脱敏错误信息。
 
 ## 📄 版权与使用
 
